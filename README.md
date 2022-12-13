@@ -25,7 +25,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 ### Links
 
 - Solution URL: [https://github.com/Beefsupreme21/News-Homepage-Main](https://github.com/Beefsupreme21/News-Homepage-Main)
-- Live Site URL: [https://beefsupreme21.github.io/FAQ-Accordion-Card/](https://beefsupreme21.github.io/FAQ-Accordion-Card/)
+- Live Site URL: [https://beefsupreme21.github.io/News-Homepage-Main/](https://beefsupreme21.github.io/News-Homepage-Main/)
 
 
 ## My process
